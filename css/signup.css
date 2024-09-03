@@ -1,0 +1,25 @@
+body {
+  background-color: rgba(82, 82, 82, 0.16);
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.card-header {
+  background-color: #7ab2f6;
+  color: white;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.btn-primary {
+  background-color: #94c1fa;
+  border-color: #022f5e;
+}
+
+.btn-primary:hover {
+  background-color: #446e9b;
+  border-color: #062546;
+}
